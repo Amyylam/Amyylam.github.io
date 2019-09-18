@@ -2,7 +2,15 @@
 layout: post
 title: Hello world from classroom!
 ---
-Just adding random words: hdhsakfheiwhnb
+Just adding what news I'm interested in:
+
+Finance news !! stock news, news of listed company. It's more a habit than a career, though I combined the two.
+
+http://www.aastocks.com/en/
+
+This is one of the website that I check for Chinese equities performance.
+
+
 
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
